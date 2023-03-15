@@ -7,7 +7,7 @@ public class Fatorial {
 //		for (int i = 1; i < 10; i++) {
 //			System.out.println( i + "! = " + (i + i) +  " = " + i * i  );
 //		}
-		
+		//teste
 		
 		 int fatorial = 1;
 	        for (int i = 1; i < 11; i++) {
